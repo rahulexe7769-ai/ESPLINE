@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "minimumClientVersion": "1.0.0",
+  "files": [
+    {
+      "name": "Client.dll"
+    },
+    {
+      "name": "cimgui.dll"
+    },
+    {
+      "name": "AotBst.dll"
+    }
+  ]
+}
