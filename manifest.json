@@ -3,13 +3,16 @@
   "minimumClientVersion": "1.0.0",
   "files": [
     {
-      "name": "Client.dll"
+      "name": "Client.dll",
+      "url": "https://github.com/rahulexe7769-ai/ESPLINE/releases/download/v1.0.0/Client.dll"
     },
     {
-      "name": "cimgui.dll"
+      "name": "cimgui.dll",
+      "url": "https://github.com/rahulexe7769-ai/ESPLINE/releases/download/v1.0.0/cimgui.dll"
     },
     {
-      "name": "AotBst.dll"
+      "name": "AotBst.dll",
+      "url": "https://github.com/rahulexe7769-ai/ESPLINE/releases/download/v1.0.0/AotBst.dll"
     }
   ]
 }
